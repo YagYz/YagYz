@@ -97,20 +97,17 @@
 
 ### 📊 GitHub İstatistikleri
 
-<div align="center">
-  <a href="https://github.com/YagYz">
-    <img src="https://github-readme-stats.vercel.app/api?username=YagYz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="YagYz GitHub Stats" height="165" />
-  </a>
-  <a href="https://github.com/YagYz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagYz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YagYz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="YagYz Stats" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <a href="https://github.com/YagYz">
-    <img src="https://streak-stats.demolab.com/?user=YagYz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagYz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YagYz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
