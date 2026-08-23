@@ -97,17 +97,14 @@
 
 ### 📊 GitHub İstatistikleri
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YagYz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="YagYz Stats" />
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YagYz&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YagYz&theme=tokyonight" alt="Repos per Language" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagYz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YagYz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center" style="margin-top: 10px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YagYz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
