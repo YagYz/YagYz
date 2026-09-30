@@ -38,7 +38,7 @@
 ### 👨‍💻 About Me
 
 - 🏢 Co-Founder, **COO & CTO** at **[3arti1 Creative House](https://www.3arti1.com)**. In addition to brand identity, media production, and creative operations, I oversee all software engineering, cloud, and server infrastructures.
-- 🎓 Computer Engineering student at **Eskisehir Technical University (ESTU)**.
+- 🎓 Student at **Eskisehir Technical University (ESTU)**.
 - 🖥️ **System Architecture, Server Infrastructure & Homelab:** Building high-availability servers, exploring datacenter architectures, and engineering custom **Homelab / Self-Hosted** ecosystems is my passion.
 - ⚡ **Languages & Backend:** **C++** for low-level performance & systems programming, **Python** for flexible rapid tooling, and **C# (.NET)** for modern backend architectures.
 - 🐧 **Daily Setup:** High-performance optimized **CachyOS (Arch Linux)** workstation and portable **MacBook Pro**.
